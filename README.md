@@ -3,7 +3,7 @@ A simple python script for downloading tiktok videos for free.
 
 If you feel that the below script is complex to use. Try the below below link which allows you to download tiktok videos online with and without watermark.
 
-https://dwtiktok.com
+https://4kdownloadguru.com/how-to-download-TikTok-videos/
 
 #How To User Tiktok Downloader Python Script
 
